@@ -10,6 +10,7 @@ const newSpicyFoods = [
   { name: "Enchiladas", cuisine: "Mexican", heatLevel: 2 },
   { name: "5 Alarm Chili", cuisine: "American", heatLevel: 5 },
 ];
+Do you also connect students with remote jobs or just learning institutions?
 
 // Get one random spicy food from the array
 function getNewRandomSpicyFood() {
